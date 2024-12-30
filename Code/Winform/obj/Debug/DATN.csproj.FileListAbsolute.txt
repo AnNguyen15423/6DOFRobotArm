@@ -1,0 +1,10 @@
+C:\Users\black\source\repos\DATN\DATN\bin\Debug\DATN.exe.config
+C:\Users\black\source\repos\DATN\DATN\bin\Debug\DATN.exe
+C:\Users\black\source\repos\DATN\DATN\bin\Debug\DATN.pdb
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.csproj.AssemblyReference.cache
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.Form1.resources
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.Properties.Resources.resources
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.csproj.GenerateResource.cache
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.exe
+C:\Users\black\source\repos\DATN\DATN\obj\Debug\DATN.pdb
